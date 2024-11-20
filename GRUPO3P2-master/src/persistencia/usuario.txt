@@ -1,0 +1,4 @@
+tipo_usuario;id_usuario;login;password;extras
+Profesor;1;jdoe;password123;1
+Estudiante;2;asmith;secretpass;1,2;1,9803:2,5809;2.0,3.0
+Profesor;3;mjones;mysecurepassword;2,3

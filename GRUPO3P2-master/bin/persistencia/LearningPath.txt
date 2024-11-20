@@ -1,0 +1,5 @@
+id_LP;titulo;descripcion;objetivos;nivel_dificultad;fecha_creacion;version;duracion;rating;fecha_modificacion;actividades
+1;Introducción a la Programación;Este curso cubre los fundamentos de la programación;variables,condicionales,bucles;Principiante;01-01-23;v1.0;120;4.6,4.2;15-01-23;9803,1212
+2;Matemáticas Avanzadas;Un curso sobre álgebra avanzada y cálculo;ecuaciones,linealidad,derivadas;Avanzado;05-03-23;v2.1;180;4.8;10-05-23;5809
+3;Historia Moderna;Explora los eventos históricos más importantes del siglo XX;guerra mundial,política,sociedad;Intermedio;12-06-23;v1.2;90;4.0;25-06-23
+
